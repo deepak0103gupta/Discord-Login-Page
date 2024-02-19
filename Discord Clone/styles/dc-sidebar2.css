@@ -1,0 +1,21 @@
+.sidebar2 {
+    position: fixed;
+    left: 50px;
+    top: 35px;
+    bottom: 0;
+    width: 160px;
+    background-color: #2B2D31;
+}
+
+.sidebar2-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 25px;
+    width: 160px;
+    border: 1px solid red;
+    margin-top: 10px;;
+}
+
+
+
